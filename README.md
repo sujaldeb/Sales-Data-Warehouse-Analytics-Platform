@@ -9,7 +9,6 @@
 > Built a production-style data warehouse on real-world CRM and ERP sales data — designing a three-layer medallion architecture (Bronze → Silver → Gold), engineering a clean star schema with surrogate keys, applying rigorous data quality checks, and delivering a full analytics layer covering cumulative trends, year-over-year performance, customer segmentation, and product reporting.
 
 ---
-
 ## Live Architecture
 
 ```
